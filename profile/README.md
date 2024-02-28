@@ -11,3 +11,4 @@ We are the Americas AI hub, a team crafting cloud-based AI solutions on AWS. Our
 * [CI/CD & DevOps](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B3%5D-CI-CD-&-DevOps) : How we automate builds, testing, and deployments.
 * [Best Practices](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B4%5D-Best-Practices) : Our standards for clean code, testing, and documentation.
 * [Production Deployment Process](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B5%5D-Production-Deployment-Process) : The process to take solutions into production.
+* [Templates & Tutorials](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B6%5D-Templates-&-Tutorials) : Resources to facilitate projects development

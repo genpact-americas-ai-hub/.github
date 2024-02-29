@@ -2,7 +2,7 @@
 
 We are the Americas AI hub, a team crafting cloud-based AI solutions on AWS. Our mission is to **deliver innovative and reliable software** that solves your business challenges.
 
-**Build smart, iterate fast, deliver value.**
+**Build quality software, deliver value, iterate fast**
 
 **How We Work**
 

@@ -13,3 +13,4 @@ We are the Americas AI hub, a team crafting cloud-based AI solutions on AWS. Our
 * [Production Deployment Process](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B5%5D-Production-Deployment-Process) : The process to take solutions into production.
 * [Templates & Tutorials](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B6%5D-Templates-&-Tutorials) : Resources to facilitate projects development
 * [Team performance scorecards](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B7%5D-Team-Performance-Scorecards) : How we measure performance.
+* [Recommended resources](https://github.com/genpact-americas-ai-hub/.github/wiki/%5B8%5D-Recommended-resources) : Websites and another resources which are useful for development.
